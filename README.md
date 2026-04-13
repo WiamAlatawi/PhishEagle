@@ -10,7 +10,7 @@ PhishEagle is an ML-based phishing detection system that uses a Random Forest cl
 - Goal: Accurately detect phishing websites using machine learning and integrate detection into a Chrome extension for real-time warnings.  
 - Model: Random Forest Classifier  
 - Reported accuracy: 99.40%  
-- Published: (add journal / conference name and link here)
+- Published: https://ijisae.org/index.php/IJISAE/article/view/7071
 
 ---
 
